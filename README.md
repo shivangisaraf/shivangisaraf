@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=shivangisaraf15&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivangisaraf15&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</div>
+
 
 ---
 
