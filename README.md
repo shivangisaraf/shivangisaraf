@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🔭 **Current Project:** [BlogNova]([https://github.com/shivangisaraf/Major-Projects/tree/main/Wanderlust](https://blognova.onrender.com/))
+- 🔭 **Current Project:** [BlogNova](https://github.com/shivangisaraf/Major-Projects/tree/main/Wanderlust](https://blognova.onrender.com/)
 - 🌱 **Learning Focus:** Backend Web Development  
 - 📫 **Contact Me:** **shivangi.saraf408@gmail.com**  
 
