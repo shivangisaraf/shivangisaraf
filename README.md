@@ -10,6 +10,9 @@
 
 <h1 align="center">✨ Hello World, I'm Shivangi Saraf! 👋✨</h1>
 <h3 align="center">🌟 A Passionate Fullstack Developer | 🌍 Based in India 🌟</h3>
+<div>
+  
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivangisaraf15&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
 </div>
