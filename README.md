@@ -1,16 +1,35 @@
 <!-- INTRO BANNER WITH 3D EFFECT -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Shivangi%20Saraf&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" width="100%"/>
 
-<!-- ANIMATED TYPING INTRO -->
+<!-- ENHANCED ANIMATED TYPING WITH MULTIPLE EFFECTS -->
+<div align="center">
+  <!-- Primary Enhanced Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57,FF9FF3&multiline=true&center=true&vCenter=true&random=false&width=800&height=120&lines=🚀+Full-Stack+Web+Developer;💻+MERN+Stack+Specialist;⚡+Building+Scalable+Applications;🎯+Problem+Solver+%26+Innovator;✨+Transforming+Ideas+→+Reality" alt="Enhanced Typing SVG" />
+  
+  <!-- Secondary Glitch Effect Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=00D9FF,FF3D71,7209B7,06FFA5&center=true&vCenter=true&repeat=true&width=700&lines=💡+Code+%7C+Create+%7C+Innovate;🌟+Frontend+%2B+Backend+%3D+Fullstack;🔥+React+•+Node+•+Express+•+MongoDB;⚡+Performance+•+Scalability+•+UX" alt="Glitch Typing Effect" />
+  
+  <!-- Minimal Clean Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=20&duration=4000&pause=1200&color=38B2AC,805AD5,E53E3E,38A169&center=true&vCenter=true&width=650&lines=Building+tomorrow's+web+today...;Crafting+digital+experiences+with+passion;Open+source+contributor+%26+tech+enthusiast;Always+learning,+always+growing+🌱" alt="Clean Typing Animation" />
+</div>
+
+<!-- ALTERNATIVE: Matrix/Hacker Style Typing Effect -->
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Problem+Solver+%26+Innovation+Driver;Transforming+Ideas+into+Digital+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+Loading+skills%3A+JavaScript,+React,+Node.js;%3E+Status%3A+Ready+for+collaboration;%3E+Mission%3A+Build+amazing+web+experiences;%3E+Connection+established+✓" alt="Matrix Style Typing" />
 </p>
 
+<!-- CREATIVE BOUNCING TEXT EFFECT -->
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=1000&color=F75C7E,F7931E,FFD60A,37B24D,339AF0,845EC2&center=true&vCenter=true&repeat=true&width=600&lines=👋+Hello+World!;I'm+Shivangi+Saraf;Let's+Build+Together!" alt="Bouncing Hello" />
+  </h2>
+</div>
 
-<h1 align="center">✨ Hello World, I'm Shivangi Saraf! 👋✨</h1>
-<h3 align="center">🌟 A Passionate Fullstack Developer | 🌍 Based in India 🌟</h3>
+<!-- GRADIENT ANIMATED SUBTITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=1000&color=667EEA,764BA2,F093FB,F5576C,4FACFE,00F2FE&center=true&vCenter=true&width=800&lines=🌟+Passionate+Fullstack+Developer;🌍+Based+in+India+🇮🇳;💼+Open+for+Opportunities;🚀+Let's+Create+Something+Amazing!" alt="Gradient Subtitle" />
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivangisaraf15&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
 </div>
