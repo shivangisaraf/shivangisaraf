@@ -4,10 +4,9 @@
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=800&color=FF6B9D,C44569,F8B500,6C5CE7,A29BFE,FD79A8&multiline=false&center=true&vCenter=true&random=false&width=750&lines=✨+Full-Stack+Web+Developer+✨;💖+MERN+Stack+Specialist;🌟+Building+Scalable+Applications;💡+Creative+Problem+Solver;🚀+Turning+Dreams+into+Code;🎨+Designing+Digital+Experiences" alt="Stylish Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=800&color=FF6B9D,C44569,F8B500,6C5CE7,A29BFE,FD79A8&multiline=false&center=true&vCenter=true&random=false&width=750&lines=👩‍💻+Full-Stack+Web+Developer;💃+MERN+Stack+Specialist;🌸+Building+Scalable+Applications;👑+Creative+Problem+Solver;✨+Turning+Dreams+into+Code;🎨+She+Codes,+She+Creates" alt="Girl Developer Typing SVG" />
   </a>
 </p>
-
 
 <h1 align="center">✨ Hello World, I'm Shivangi Saraf! 👋✨</h1>
 <h3 align="center">🌟 A Passionate Fullstack Developer | 🌍 Based in India 🌟</h3>
