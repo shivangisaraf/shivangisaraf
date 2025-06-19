@@ -4,7 +4,7 @@
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Problem+Solver+%26+Innovation+Driver;Transforming+Ideas+into+Digital+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=800&color=FF6B9D,C44569,F8B500,6C5CE7,A29BFE,FD79A8&multiline=false&center=true&vCenter=true&random=false&width=750&lines=✨+Full-Stack+Web+Developer+✨;💖+MERN+Stack+Specialist;🌟+Building+Scalable+Applications;💡+Creative+Problem+Solver;🚀+Turning+Dreams+into+Code;🎨+Designing+Digital+Experiences" alt="Stylish Typing SVG" />
   </a>
 </p>
 
