@@ -28,7 +28,7 @@
     </h2>
     <ul>
       <li>
-        <img src="https://raw.githubusercontent.com/Tarikiul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
         <strong>Current Focus:</strong> Developing <a href="https://blognova.onrender.com/"><b>BlogNova</b></a> — A comprehensive blogging platform using MERN stack
       </li>
       <li>
