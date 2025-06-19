@@ -177,54 +177,7 @@
         </p>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Ecommerce" width="25" height="25" />
-          E-Commerce Web Application
-        </h3>
-        <p align="center">
-          <a href="https://github.com/shivangisaraf/ecommerce-app" target="_blank">
-            <img src="https://github.com/shivangisaraf/ecommerce-preview/raw/main/ecommerce-preview.png" width="100%" alt="E-Commerce Project"/>
-          </a>
-          <p align="center">
-            <a href="https://github.com/shivangisaraf/ecommerce-app" target="_blank">
-              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://ecommerce-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p align="center">
-            <strong>Tech Stack:</strong> React.js • Node.js • Express.js • MongoDB<br>
-            <em>Full-stack e-commerce solution with product management, cart functionality, and secure payment integration.</em>
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Task" width="25" height="25" />
-          Task Management System
-        </h3>
-        <p align="center">
-          <a href="https://github.com/shivangisaraf/task-manager" target="_blank">
-            <img src="https://github.com/shivangisaraf/task-preview/raw/main/task-preview.png" width="100%" alt="Task Manager Project"/>
-          </a>
-          <p align="center">
-            <a href="https://github.com/shivangisaraf/task-manager" target="_blank">
-              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://task-manager-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p align="center">
-            <strong>Tech Stack:</strong> HTML5 • CSS3 • JavaScript • Local Storage<br>
-            <em>Interactive task management application with drag-and-drop functionality, priority levels, and data persistence.</em>
-          </p>
-        </p>
-      </td>
-    </tr>
+    
   </table>
 </div>
 
