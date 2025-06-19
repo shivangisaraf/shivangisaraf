@@ -161,14 +161,14 @@
           Personal Portfolio Website
         </h3>
         <p align="center">
-          <a href="https://shivangi-portfolio.vercel.app/" target="_blank">
+          <a href="https://www.shivangisaraf.site/" target="_blank">
             <img src="https://github.com/shivangisaraf/portfolio-preview/raw/main/portfolio-preview.png" width="100%" alt="Portfolio Website"/>
           </a>
           <p align="center">
             <a href="https://github.com/shivangisaraf/portfolio" target="_blank">
               <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://shivangi-portfolio.vercel.app/" target="_blank">
+            <a href="https://www.shivangisaraf.site/" target="_blank">
               <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
