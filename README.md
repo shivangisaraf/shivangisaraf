@@ -1,3 +1,13 @@
+<!-- INTRO BANNER WITH 3D EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Shivangi%20Saraf&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" width="100%"/>
+
+<!-- ANIMATED TYPING INTRO -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Problem+Solver+%26+Innovation+Driver;Transforming+Ideas+into+Digital+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
 ![logo](https://github.com/shivangisaraf/shivangisaraf/blob/main/banner.png)
 <h1 align="center">✨ Hello World, I'm Shivangi Saraf! 👋✨</h1>
 <h3 align="center">🌟 A Passionate Fullstack Developer | 🌍 Based in India 🌟</h3>
@@ -6,6 +16,38 @@
 </div>
 
 ---
+
+<!-- PROFESSIONAL ABOUT ME SECTION -->
+<div>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  
+  <div>
+    <h2>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="35" height="35" />
+      Professional Overview
+    </h2>
+    <ul>
+      <li>
+        <img src="https://raw.githubusercontent.com/Tarikiul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
+        <strong>Current Focus:</strong> Developing <a href="https://blognova.onrender.com/"><b>BlogNova</b></a> — A comprehensive blogging platform using MERN stack
+      </li>
+      <li>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="20" height="20" />
+        <strong>Continuous Learning:</strong> Advanced Backend Development, Database Management, System Design, and Modern Web Technologies
+      </li>
+      <li>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Work" width="20" height="20" />
+        <strong>Open for Opportunities:</strong> Full-Stack Development Roles, Internships, and Collaborative Projects
+      </li>
+      <li>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Contact" width="20" height="20" />
+        <strong>Contact:</strong> <a href="mailto:shivangi.saraf408@gmail.com"><b>shivangi.saraf408@gmail.com</b></a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<br>
 
 ### 🚀 **About Me**
 - 🔭 **Current Project:** [BlogNova](https://blognova.onrender.com/)
@@ -23,20 +65,169 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+<!-- TECHNICAL SKILLS SECTION -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="35" height="35" />
+  Technical Skills & Expertise
+</h2>
+
+<div align="center">
+  
+  <!-- Frontend Technologies -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Frontend" width="25" height="25" />
+    Frontend Technologies
+  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  </p>
+
+  <!-- Backend Technologies -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Backend" width="25" height="25" />
+    Backend Technologies
+  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </p>
+
+  <!-- Database Technologies -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="Database" width="25" height="25" />
+    Database Technologies
+  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </p>
+  
+  <!-- Developer Tools & Cloud -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Tools" width="25" height="25" />
+    Developer Tools & Cloud
+  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </p>
+</div>
+
+---
+
+<!-- FEATURED PROJECTS SECTION -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Projects" width="35" height="35" />
+  Featured Projects
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Blog" width="25" height="25" />
+          BlogNova - Modern Blogging Platform
+        </h3>
+        <p align="center">
+          <a href="https://blognova.onrender.com/" target="_blank">
+            <img src="https://github.com/shivangisaraf/blognova-preview/raw/main/blognova-preview.png" width="100%" alt="BlogNova Project"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/shivangisaraf/BlogNova" target="_blank">
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://blognova.onrender.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=render&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center">
+            <strong>Tech Stack:</strong> Node.js • Express.js • MongoDB • HTML/CSS • JavaScript<br>
+            <em>Feature-rich blogging platform with user authentication, content management, commenting system, and responsive design.</em>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Portfolio" width="25" height="25" />
+          Personal Portfolio Website
+        </h3>
+        <p align="center">
+          <a href="https://shivangi-portfolio.vercel.app/" target="_blank">
+            <img src="https://github.com/shivangisaraf/portfolio-preview/raw/main/portfolio-preview.png" width="100%" alt="Portfolio Website"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/shivangisaraf/portfolio" target="_blank">
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://shivangi-portfolio.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center">
+            <strong>Tech Stack:</strong> React.js • Tailwind CSS • Framer Motion<br>
+            <em>Responsive portfolio website featuring smooth animations, project showcases, and professional contact form.</em>
+          </p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Ecommerce" width="25" height="25" />
+          E-Commerce Web Application
+        </h3>
+        <p align="center">
+          <a href="https://github.com/shivangisaraf/ecommerce-app" target="_blank">
+            <img src="https://github.com/shivangisaraf/ecommerce-preview/raw/main/ecommerce-preview.png" width="100%" alt="E-Commerce Project"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/shivangisaraf/ecommerce-app" target="_blank">
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://ecommerce-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center">
+            <strong>Tech Stack:</strong> React.js • Node.js • Express.js • MongoDB<br>
+            <em>Full-stack e-commerce solution with product management, cart functionality, and secure payment integration.</em>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Task" width="25" height="25" />
+          Task Management System
+        </h3>
+        <p align="center">
+          <a href="https://github.com/shivangisaraf/task-manager" target="_blank">
+            <img src="https://github.com/shivangisaraf/task-preview/raw/main/task-preview.png" width="100%" alt="Task Manager Project"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/shivangisaraf/task-manager" target="_blank">
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://task-manager-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center">
+            <strong>Tech Stack:</strong> HTML5 • CSS3 • JavaScript • Local Storage<br>
+            <em>Interactive task management application with drag-and-drop functionality, priority levels, and data persistence.</em>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -63,6 +254,37 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
+
+---
+
+<!-- PROFESSIONAL CALL TO ACTION -->
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="35" height="35" />
+    Let's Connect & Collaborate
+  </h2>
+  <p><em>Open to full-stack development opportunities, internships, and innovative project collaborations</em></p>
+  
+  <a href="https://linkedin.com/in/shivangi-saraf-b633a1246?trk=people-guest_people_search-card">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" width="220" />
+  </a>
+  <br><br>
+  <a href="mailto:shivangi.saraf408@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" height="45" width="220" />
+  </a>
+</div>
+
+<br>
+
+<!-- PROFESSIONAL FOOTER -->
+<div align="center">
+  <p><strong>⭐ Star my repositories if you find them valuable!</strong></p>
+  <p><strong>🤝 Follow for more innovative projects and collaborations!</strong></p>
+  <p><em>"Passionate about creating efficient, scalable, and user-centric web solutions"</em></p>
+</div>
+
+<!-- FOOTER WITH WAVE ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&section=footer" width="100%" />
 
 ---
 
