@@ -1,7 +1,6 @@
 ![logo](https://github.com/shivangisaraf/shivangisaraf/blob/main/banner.png)
 <h1 align="center">✨ Hello World, I'm Shivangi Saraf! 👋✨</h1>
 <h3 align="center">🌟 A Passionate Fullstack Developer | 🌍 Based in India 🌟</h3>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivangisaraf15&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
 </div>
@@ -41,14 +40,19 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🏆 Achievements</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangisaraf15&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/🎃%20Hacktoberfest%202024-Completed-orange?style=for-the-badge&logoColor=white" alt="Hacktoberfest 2024" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangisaraf15&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/✅%20All%204%20PRs-Successfully%20Merged-green?style=for-the-badge&logoColor=white" alt="PRs Merged" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangisaraf15&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/👩‍💻%20GirlScript%20SoC%20Extended%202024-Participant-pink?style=for-the-badge&logoColor=white" alt="GirlScript Summer of Code" />
 </div>
+
+<p align="center">
+  🎯 <strong>Hacktoberfest 2024:</strong> Successfully completed the challenge with all 4 pull requests merged!<br />
+  💪 <strong>GirlScript Summer of Code Extended 2024:</strong> Active participant in the open-source program
+</p>
 
 ---
 
