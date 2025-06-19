@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![logo](https://github.com/shivangisaraf/shivangisaraf/blob/main/banner.png)
+
 <h1 align="center">✨ Hello World, I'm Shivangi Saraf! 👋✨</h1>
 <h3 align="center">🌟 A Passionate Fullstack Developer | 🌍 Based in India 🌟</h3>
 <div align="center">
