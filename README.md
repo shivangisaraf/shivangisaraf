@@ -177,6 +177,34 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="Travel" width="25" height="25" />
+          Wanderlust - Travel Booking Platform
+        </h3>
+        <p align="center">
+          <a href="https://wanderlust-demo.onrender.com/" target="_blank">
+            <img src="https://github.com/shivangisaraf/shivangisaraf/blob/main/wanderlust.jpg" width="100%" alt="Wanderlust Project"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/shivangisaraf/Wanderlust" target="_blank">
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://wanderlust-demo.onrender.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=render&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center">
+            <strong>Tech Stack:</strong> Node.js • Express.js • MongoDB • EJS • Bootstrap<br>
+            <em>Full-stack travel booking platform with property listings, user reviews, interactive maps, and secure booking system.</em>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <!-- You can add another project here or leave empty -->
+      </td>
+    </tr>
     
   </table>
 </div>
