@@ -2,7 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Shivangi%20Saraf&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" width="100%"/>
 
 <!-- ANIMATED TYPING INTRO -->
-
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Problem+Solver+%26+Innovation+Driver;Transforming+Ideas+into+Digital+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
 <h1 align="center">✨ Hello World, I'm Shivangi Saraf! 👋✨</h1>
 <h3 align="center">🌟 A Passionate Fullstack Developer | 🌍 Based in India 🌟</h3>
