@@ -187,7 +187,7 @@
         </h3>
         <p align="center">
           <a href="https://wanderlust-demo.onrender.com/" target="_blank">
-            <img src="https://github.com/shivangisaraf/shivangisaraf/blob/main/wanderlust.jpg" width="100%" alt="Wanderlust Project"/>
+            <img src="https://github.com/shivangisaraf/shivangisaraf/blob/main/s.jpg" width="100%" alt="Wanderlust Project"/>
           </a>
           <p align="center">
             <a href="https://github.com/shivangisaraf/Wanderlust" target="_blank">
