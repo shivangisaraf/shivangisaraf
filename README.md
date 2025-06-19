@@ -137,7 +137,7 @@
         </h3>
         <p align="center">
           <a href="https://blognova.onrender.com/" target="_blank">
-            <img src="https://github.com/shivangisaraf/blognova-preview/raw/main/blognova-preview.png" width="100%" alt="BlogNova Project"/>
+            <img src="https://github.com/shivangisaraf/blognova-preview/raw/main/blognova-preview.png](https://github.com/shivangisaraf/shivangisaraf/blob/main/blognova.jpg)" width="100%" alt="BlogNova Project"/>
           </a>
           <p align="center">
             <a href="https://github.com/shivangisaraf/BlogNova" target="_blank">
