@@ -204,6 +204,29 @@
           </p>
         </p>
       </td>
+    <td width="50%">
+  <h3 align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Education" width="25" height="25" />
+    Student Management System
+  </h3>
+  <p align="center">
+    <a href="#" target="_blank">
+      <img src="https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Student+Management+System" width="100%" alt="Student Management System"/>
+    </a>
+    <p align="center">
+      <a href="https://github.com/yourusername/student-management-system" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=render&logoColor=white"/>
+      </a>
+    </p>
+    <p align="center">
+      <strong>Tech Stack:</strong> Node.js • Express.js • MongoDB • EJS • Mongoose<br>
+      <em>Full-stack student management system with CRUD operations, student records management, and responsive design.</em>
+    </p>
+  </p>
+</td>
       <td width="50%">
         <!-- You can add another project here or leave empty -->
       </td>
