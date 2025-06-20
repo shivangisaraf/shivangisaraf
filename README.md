@@ -214,10 +214,10 @@
       <img src="https://github.com/shivangisaraf/StudentHub/blob/main/a.png" width="100%" alt="Student Management System"/>
     </a>
     <p align="center">
-      <a href="https://github.com/yourusername/student-management-system" target="_blank">
+      <a href="https://github.com/shivangisaraf/StudentHub" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="#" target="_blank">
+      <a href="https://studenthub-6uwd.onrender.com" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=render&logoColor=white"/>
       </a>
     </p>
