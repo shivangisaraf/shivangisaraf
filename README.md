@@ -211,7 +211,7 @@
   </h3>
   <p align="center">
     <a href="#" target="_blank">
-      <img src="https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Student+Management+System" width="100%" alt="Student Management System"/>
+      <img src="https://github.com/shivangisaraf/StudentHub/blob/main/a.png" width="100%" alt="Student Management System"/>
     </a>
     <p align="center">
       <a href="https://github.com/yourusername/student-management-system" target="_blank">
